@@ -1,0 +1,1324 @@
+{
+    "16": [
+        {
+            "n_colors": "5",
+            "avg_area_px": "15585.0",
+            "total_area_px": "124680",
+            "min_area": "2809",
+            "max_radius": "110",
+            "min_radius": "30",
+            "n_objects": "8",
+            "image_id": "16",
+            "max_area": "37969",
+            "image_url": "16.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "3600",
+                    "thresh_dist": "0.7676",
+                    "object_id": "0",
+                    "color": "blue",
+                    "radius": "30",
+                    "k": "0.2324",
+                    "cc": "798",
+                    "prob": "0.9513",
+                    "rr": "729.0"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "7825",
+                    "thresh_dist": "0.6249",
+                    "object_id": "1",
+                    "color": "green",
+                    "radius": "50",
+                    "k": "0.2324",
+                    "cc": "362",
+                    "prob": "1.0",
+                    "rr": "943"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "2809",
+                    "thresh_dist": "0.7676",
+                    "object_id": "2",
+                    "color": "white",
+                    "radius": "30",
+                    "k": "0.2324",
+                    "cc": "705",
+                    "prob": "1.0",
+                    "rr": "144"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "14400",
+                    "thresh_dist": "0.2324",
+                    "object_id": "3",
+                    "color": "green",
+                    "radius": "60",
+                    "k": "0.2324",
+                    "cc": "186",
+                    "prob": "0.6922",
+                    "rr": "270.0"
+                },
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "32400",
+                    "thresh_dist": "nan",
+                    "object_id": "4",
+                    "color": "red",
+                    "radius": "90",
+                    "k": "0.2324",
+                    "cc": "797",
+                    "prob": "0.5",
+                    "rr": "832"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "14400",
+                    "thresh_dist": "nan",
+                    "object_id": "5",
+                    "color": "yellow",
+                    "radius": "60",
+                    "k": "0.2324",
+                    "cc": "512",
+                    "prob": "0.5",
+                    "rr": "703"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "37969",
+                    "thresh_dist": "0.2324",
+                    "object_id": "6",
+                    "color": "blue",
+                    "radius": "110",
+                    "k": "0.2324",
+                    "cc": "897",
+                    "prob": "0.9489",
+                    "rr": "112"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "11277",
+                    "thresh_dist": "0.5268",
+                    "object_id": "7",
+                    "color": "yellow",
+                    "radius": "60",
+                    "k": "0.2324",
+                    "cc": "368",
+                    "prob": "0.9999",
+                    "rr": "324"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The yellow circle is a small circle",
+                    "prob_RH_R_true": "0.9999",
+                    "dist_from_thresh:": "0.5268",
+                    "k": "0.2324"
+                },
+                {
+                    "dist_from_thresh": "0.5268",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.0001",
+                    "caption_false": "The yellow circle is a big circle",
+                    "k": "0.2324"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The green circle is a small circle",
+                    "prob_RH_R_true": "1.0",
+                    "dist_from_thresh:": "0.6249",
+                    "k": "0.2324"
+                },
+                {
+                    "dist_from_thresh": "0.6249",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.0",
+                    "caption_false": "The green circle is a big circle",
+                    "k": "0.2324"
+                }
+            ]
+        }
+    ],
+    "17": [
+        {
+            "n_colors": "4",
+            "avg_area_px": "26160.0",
+            "total_area_px": "130800",
+            "min_area": "6400",
+            "max_radius": "100",
+            "min_radius": "40",
+            "n_objects": "5",
+            "image_id": "17",
+            "max_area": "40000",
+            "image_url": "17.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "32400",
+                    "thresh_dist": "0.2458",
+                    "object_id": "0",
+                    "color": "green",
+                    "radius": "90",
+                    "k": "0.2458",
+                    "cc": "804",
+                    "prob": "0.7354",
+                    "rr": "823"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "6400",
+                    "thresh_dist": "0.7542",
+                    "object_id": "1",
+                    "color": "green",
+                    "radius": "40",
+                    "k": "0.2458",
+                    "cc": "192",
+                    "prob": "1.0",
+                    "rr": "697"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "40000",
+                    "thresh_dist": "0.2458",
+                    "object_id": "2",
+                    "color": "white",
+                    "radius": "100",
+                    "k": "0.2458",
+                    "cc": "444",
+                    "prob": "0.9507",
+                    "rr": "417"
+                },
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "19600",
+                    "thresh_dist": "0.7542",
+                    "object_id": "3",
+                    "color": "blue",
+                    "radius": "70",
+                    "k": "0.2458",
+                    "cc": "846",
+                    "prob": "0.9732",
+                    "rr": "147"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "32400",
+                    "thresh_dist": "0.0196",
+                    "object_id": "4",
+                    "color": "yellow",
+                    "radius": "90",
+                    "k": "0.2458",
+                    "cc": "170",
+                    "prob": "0.5524",
+                    "rr": "408"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The yellow square is a big square",
+                    "prob_RH_R_true": "0.5524",
+                    "dist_from_thresh:": "0.0196",
+                    "k": "0.2458"
+                },
+                {
+                    "dist_from_thresh": "0.0196",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.4476",
+                    "caption_false": "The yellow square is a small square",
+                    "k": "0.2458"
+                }
+            ]
+        }
+    ],
+    "18": [
+        {
+            "n_colors": "4",
+            "avg_area_px": "13133.3333",
+            "total_area_px": "78800",
+            "min_area": "3600",
+            "max_radius": "80",
+            "min_radius": "30",
+            "n_objects": "6",
+            "image_id": "18",
+            "max_area": "25600",
+            "image_url": "18.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "25600",
+                    "thresh_dist": "0.411",
+                    "object_id": "0",
+                    "color": "red",
+                    "radius": "80",
+                    "k": "0.411",
+                    "cc": "857",
+                    "prob": "0.9001",
+                    "rr": "354"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "19600",
+                    "thresh_dist": "0.411",
+                    "object_id": "1",
+                    "color": "green",
+                    "radius": "70",
+                    "k": "0.411",
+                    "cc": "621",
+                    "prob": "0.9058",
+                    "rr": "932"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "10000",
+                    "thresh_dist": "0.189",
+                    "object_id": "2",
+                    "color": "white",
+                    "radius": "50",
+                    "k": "0.411",
+                    "cc": "213",
+                    "prob": "0.7273",
+                    "rr": "860"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "3600",
+                    "thresh_dist": "0.589",
+                    "object_id": "3",
+                    "color": "blue",
+                    "radius": "30",
+                    "k": "0.411",
+                    "cc": "229",
+                    "prob": "0.9703",
+                    "rr": "183"
+                },
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "10000",
+                    "thresh_dist": "0.589",
+                    "object_id": "4",
+                    "color": "red",
+                    "radius": "50",
+                    "k": "0.411",
+                    "cc": "481",
+                    "prob": "0.9669",
+                    "rr": "714"
+                },
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "10000",
+                    "thresh_dist": "0.589",
+                    "object_id": "5",
+                    "color": "blue",
+                    "radius": "50",
+                    "k": "0.411",
+                    "cc": "110",
+                    "prob": "0.9669",
+                    "rr": "828"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The green square is a big square",
+                    "prob_RH_R_true": "0.9058",
+                    "dist_from_thresh:": "0.411",
+                    "k": "0.411"
+                },
+                {
+                    "dist_from_thresh": "0.411",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.0942",
+                    "caption_false": "The green square is a small square",
+                    "k": "0.411"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The white square is a small square",
+                    "prob_RH_R_true": "0.7273",
+                    "dist_from_thresh:": "0.189",
+                    "k": "0.411"
+                },
+                {
+                    "dist_from_thresh": "0.189",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.2727",
+                    "caption_false": "The white square is a big square",
+                    "k": "0.411"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The blue triangle is a small triangle",
+                    "prob_RH_R_true": "0.9669",
+                    "dist_from_thresh:": "0.589",
+                    "k": "0.411"
+                },
+                {
+                    "dist_from_thresh": "0.589",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.0331",
+                    "caption_false": "The blue triangle is a big triangle",
+                    "k": "0.411"
+                }
+            ]
+        }
+    ],
+    "19": [
+        {
+            "n_colors": "3",
+            "avg_area_px": "15999.3333",
+            "total_area_px": "95996",
+            "min_area": "2809",
+            "max_radius": "90",
+            "min_radius": "30",
+            "n_objects": "6",
+            "image_id": "19",
+            "max_area": "25600",
+            "image_url": "19.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "19600",
+                    "thresh_dist": "nan",
+                    "object_id": "0",
+                    "color": "blue",
+                    "radius": "70",
+                    "k": "0.3495",
+                    "cc": "217",
+                    "prob": "0.5",
+                    "rr": "803"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "25433",
+                    "thresh_dist": "0.3495",
+                    "object_id": "1",
+                    "color": "green",
+                    "radius": "90",
+                    "k": "0.3495",
+                    "cc": "433",
+                    "prob": "0.9431",
+                    "rr": "466"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "11277",
+                    "thresh_dist": "0.2762",
+                    "object_id": "2",
+                    "color": "white",
+                    "radius": "60",
+                    "k": "0.3495",
+                    "cc": "199",
+                    "prob": "0.8943",
+                    "rr": "290"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "11277",
+                    "thresh_dist": "0.2762",
+                    "object_id": "3",
+                    "color": "blue",
+                    "radius": "60",
+                    "k": "0.3495",
+                    "cc": "468",
+                    "prob": "0.8943",
+                    "rr": "918"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "2809",
+                    "thresh_dist": "0.6505",
+                    "object_id": "4",
+                    "color": "white",
+                    "radius": "30",
+                    "k": "0.3495",
+                    "cc": "957",
+                    "prob": "0.9984",
+                    "rr": "412"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "25600",
+                    "thresh_dist": "nan",
+                    "object_id": "5",
+                    "color": "green",
+                    "radius": "80",
+                    "k": "0.3495",
+                    "cc": "680",
+                    "prob": "0.5",
+                    "rr": "446"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The blue circle is a small circle",
+                    "prob_RH_R_true": "0.8943",
+                    "dist_from_thresh:": "0.2762",
+                    "k": "0.3495"
+                },
+                {
+                    "dist_from_thresh": "0.2762",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.1057",
+                    "caption_false": "The blue circle is a big circle",
+                    "k": "0.3495"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The green circle is a big circle",
+                    "prob_RH_R_true": "0.9431",
+                    "dist_from_thresh:": "0.3495",
+                    "k": "0.3495"
+                },
+                {
+                    "dist_from_thresh": "0.3495",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.0569",
+                    "caption_false": "The green circle is a small circle",
+                    "k": "0.3495"
+                }
+            ]
+        }
+    ],
+    "10": [
+        {
+            "n_colors": "4",
+            "avg_area_px": "22600.5714",
+            "total_area_px": "158204",
+            "min_area": "3600",
+            "max_radius": "110",
+            "min_radius": "30",
+            "n_objects": "7",
+            "image_id": "10",
+            "max_area": "40000",
+            "image_url": "10.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "5013",
+                    "thresh_dist": "0.7674",
+                    "object_id": "0",
+                    "color": "white",
+                    "radius": "40",
+                    "k": "0.2326",
+                    "cc": "524",
+                    "prob": "1.0",
+                    "rr": "152"
+                },
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "3600",
+                    "thresh_dist": "0.7674",
+                    "object_id": "1",
+                    "color": "blue",
+                    "radius": "30",
+                    "k": "0.2326",
+                    "cc": "205",
+                    "prob": "1.0",
+                    "rr": "574"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "31397",
+                    "thresh_dist": "0.0332",
+                    "object_id": "2",
+                    "color": "red",
+                    "radius": "100",
+                    "k": "0.2326",
+                    "cc": "305",
+                    "prob": "0.5866",
+                    "rr": "247"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "7825",
+                    "thresh_dist": "0.6821",
+                    "object_id": "3",
+                    "color": "blue",
+                    "radius": "50",
+                    "k": "0.2326",
+                    "cc": "791",
+                    "prob": "1.0",
+                    "rr": "575"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "37969",
+                    "thresh_dist": "0.2326",
+                    "object_id": "4",
+                    "color": "blue",
+                    "radius": "110",
+                    "k": "0.2326",
+                    "cc": "753",
+                    "prob": "0.9374",
+                    "rr": "217"
+                },
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "40000",
+                    "thresh_dist": "0.2326",
+                    "object_id": "5",
+                    "color": "red",
+                    "radius": "100",
+                    "k": "0.2326",
+                    "cc": "730",
+                    "prob": "0.9548",
+                    "rr": "408"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "32400",
+                    "thresh_dist": "nan",
+                    "object_id": "6",
+                    "color": "yellow",
+                    "radius": "90",
+                    "k": "0.2326",
+                    "cc": "60.0",
+                    "prob": "0.5",
+                    "rr": "191"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The white circle is a small circle",
+                    "prob_RH_R_true": "1.0",
+                    "dist_from_thresh:": "0.7674",
+                    "k": "0.2326"
+                },
+                {
+                    "dist_from_thresh": "0.7674",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.0",
+                    "caption_false": "The white circle is a big circle",
+                    "k": "0.2326"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The red circle is a big circle",
+                    "prob_RH_R_true": "0.5866",
+                    "dist_from_thresh:": "0.0332",
+                    "k": "0.2326"
+                },
+                {
+                    "dist_from_thresh": "0.0332",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.4134",
+                    "caption_false": "The red circle is a small circle",
+                    "k": "0.2326"
+                }
+            ]
+        }
+    ],
+    "11": [
+        {
+            "n_colors": "4",
+            "avg_area_px": "17976.5",
+            "total_area_px": "107859",
+            "min_area": "3600",
+            "max_radius": "110",
+            "min_radius": "30",
+            "n_objects": "6",
+            "image_id": "11",
+            "max_area": "40000",
+            "image_url": "11.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "5013",
+                    "thresh_dist": "0.8414",
+                    "object_id": "0",
+                    "color": "red",
+                    "radius": "40",
+                    "k": "0.1586",
+                    "cc": "231",
+                    "prob": "1.0",
+                    "rr": "308"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "3600",
+                    "thresh_dist": "0.8414",
+                    "object_id": "1",
+                    "color": "green",
+                    "radius": "30",
+                    "k": "0.1586",
+                    "cc": "449",
+                    "prob": "0.8593",
+                    "rr": "867.0"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "10000",
+                    "thresh_dist": "0.1586",
+                    "object_id": "2",
+                    "color": "yellow",
+                    "radius": "50",
+                    "k": "0.1586",
+                    "cc": "663",
+                    "prob": "0.5804",
+                    "rr": "741.0"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "40000",
+                    "thresh_dist": "nan",
+                    "object_id": "3",
+                    "color": "white",
+                    "radius": "100",
+                    "k": "0.1586",
+                    "cc": "114",
+                    "prob": "0.5",
+                    "rr": "665"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "11277",
+                    "thresh_dist": "0.6513",
+                    "object_id": "4",
+                    "color": "red",
+                    "radius": "60",
+                    "k": "0.1586",
+                    "cc": "648",
+                    "prob": "1.0",
+                    "rr": "330"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "37969",
+                    "thresh_dist": "0.1586",
+                    "object_id": "5",
+                    "color": "green",
+                    "radius": "110",
+                    "k": "0.1586",
+                    "cc": "674",
+                    "prob": "0.852",
+                    "rr": "509"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The green circle is a big circle",
+                    "prob_RH_R_true": "0.852",
+                    "dist_from_thresh:": "0.1586",
+                    "k": "0.1586"
+                },
+                {
+                    "dist_from_thresh": "0.1586",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.148",
+                    "caption_false": "The green circle is a small circle",
+                    "k": "0.1586"
+                }
+            ]
+        }
+    ],
+    "12": [
+        {
+            "n_colors": "5",
+            "avg_area_px": "17333.3333",
+            "total_area_px": "104000",
+            "min_area": "3600",
+            "max_radius": "110",
+            "min_radius": "30",
+            "n_objects": "6",
+            "image_id": "12",
+            "max_area": "48400",
+            "image_url": "12.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "14400",
+                    "thresh_dist": "0.2784",
+                    "object_id": "0",
+                    "color": "red",
+                    "radius": "60",
+                    "k": "0.2784",
+                    "cc": "512",
+                    "prob": "0.7262",
+                    "rr": "233"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "14400",
+                    "thresh_dist": "0.7216",
+                    "object_id": "1",
+                    "color": "green",
+                    "radius": "60",
+                    "k": "0.2784",
+                    "cc": "692.0",
+                    "prob": "1.0",
+                    "rr": "769"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "48400",
+                    "thresh_dist": "0.2784",
+                    "object_id": "2",
+                    "color": "yellow",
+                    "radius": "110",
+                    "k": "0.2784",
+                    "cc": "233.0",
+                    "prob": "0.9708",
+                    "rr": "316"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "3600",
+                    "thresh_dist": "0.7216",
+                    "object_id": "3",
+                    "color": "yellow",
+                    "radius": "30",
+                    "k": "0.2784",
+                    "cc": "858",
+                    "prob": "0.9405",
+                    "rr": "547"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "3600",
+                    "thresh_dist": "0.7216",
+                    "object_id": "4",
+                    "color": "blue",
+                    "radius": "30",
+                    "k": "0.2784",
+                    "cc": "127",
+                    "prob": "0.9405",
+                    "rr": "475"
+                },
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "19600",
+                    "thresh_dist": "nan",
+                    "object_id": "5",
+                    "color": "white",
+                    "radius": "70",
+                    "k": "0.2784",
+                    "cc": "390",
+                    "prob": "0.5",
+                    "rr": "682"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The red square is a big square",
+                    "prob_RH_R_true": "0.7262",
+                    "dist_from_thresh:": "0.2784",
+                    "k": "0.2784"
+                },
+                {
+                    "dist_from_thresh": "0.2784",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.2738",
+                    "caption_false": "The red square is a small square",
+                    "k": "0.2784"
+                }
+            ]
+        }
+    ],
+    "13": [
+        {
+            "n_colors": "4",
+            "avg_area_px": "24370.8333",
+            "total_area_px": "146225",
+            "min_area": "3600",
+            "max_radius": "120",
+            "min_radius": "30",
+            "n_objects": "6",
+            "image_id": "13",
+            "max_area": "57600",
+            "image_url": "13.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "triangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "14400",
+                    "thresh_dist": "nan",
+                    "object_id": "0",
+                    "color": "white",
+                    "radius": "60",
+                    "k": "0.2979",
+                    "cc": "124",
+                    "prob": "0.5",
+                    "rr": "677"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "57600",
+                    "thresh_dist": "0.2979",
+                    "object_id": "1",
+                    "color": "red",
+                    "radius": "120",
+                    "k": "0.2979",
+                    "cc": "471.0",
+                    "prob": "0.995",
+                    "rr": "304"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "48400",
+                    "thresh_dist": "0.085",
+                    "object_id": "2",
+                    "color": "blue",
+                    "radius": "110",
+                    "k": "0.2979",
+                    "cc": "768",
+                    "prob": "0.7685",
+                    "rr": "394.0"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "7825",
+                    "thresh_dist": "nan",
+                    "object_id": "3",
+                    "color": "white",
+                    "radius": "50",
+                    "k": "0.2979",
+                    "cc": "598",
+                    "prob": "0.5",
+                    "rr": "192"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "14400",
+                    "thresh_dist": "0.7021",
+                    "object_id": "4",
+                    "color": "white",
+                    "radius": "60",
+                    "k": "0.2979",
+                    "cc": "727.0",
+                    "prob": "1.0",
+                    "rr": "813"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "3600",
+                    "thresh_dist": "nan",
+                    "object_id": "5",
+                    "color": "green",
+                    "radius": "30",
+                    "k": "0.2979",
+                    "cc": "735",
+                    "prob": "0.5",
+                    "rr": "171"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The blue rectangle is a big rectangle",
+                    "prob_RH_R_true": "0.7685",
+                    "dist_from_thresh:": "0.085",
+                    "k": "0.2979"
+                },
+                {
+                    "dist_from_thresh": "0.085",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.2315",
+                    "caption_false": "The blue rectangle is a small rectangle",
+                    "k": "0.2979"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The white rectangle is a small rectangle",
+                    "prob_RH_R_true": "1.0",
+                    "dist_from_thresh:": "0.7021",
+                    "k": "0.2979"
+                },
+                {
+                    "dist_from_thresh": "0.7021",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.0",
+                    "caption_false": "The white rectangle is a big rectangle",
+                    "k": "0.2979"
+                }
+            ]
+        }
+    ],
+    "14": [
+        {
+            "n_colors": "2",
+            "avg_area_px": "25120.0",
+            "total_area_px": "125600",
+            "min_area": "3600",
+            "max_radius": "120",
+            "min_radius": "30",
+            "n_objects": "5",
+            "image_id": "14",
+            "max_area": "57600",
+            "image_url": "14.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "6400",
+                    "thresh_dist": "0.6238",
+                    "object_id": "0",
+                    "color": "white",
+                    "radius": "40",
+                    "k": "0.2789",
+                    "cc": "37.0",
+                    "prob": "0.9998",
+                    "rr": "671"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "32400",
+                    "thresh_dist": "0.2789",
+                    "object_id": "1",
+                    "color": "blue",
+                    "radius": "90",
+                    "k": "0.2789",
+                    "cc": "283",
+                    "prob": "0.9459",
+                    "rr": "524.0"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "57600",
+                    "thresh_dist": "0.2789",
+                    "object_id": "2",
+                    "color": "white",
+                    "radius": "120",
+                    "k": "0.2789",
+                    "cc": "308",
+                    "prob": "0.9629",
+                    "rr": "763"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "25600",
+                    "thresh_dist": "0.7211",
+                    "object_id": "3",
+                    "color": "white",
+                    "radius": "80",
+                    "k": "0.2789",
+                    "cc": "298",
+                    "prob": "1.0",
+                    "rr": "347"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "3600",
+                    "thresh_dist": "0.7211",
+                    "object_id": "4",
+                    "color": "blue",
+                    "radius": "30",
+                    "k": "0.2789",
+                    "cc": "483",
+                    "prob": "1.0",
+                    "rr": "597.0"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The white rectangle is a small rectangle",
+                    "prob_RH_R_true": "0.9998",
+                    "dist_from_thresh:": "0.6238",
+                    "k": "0.2789"
+                },
+                {
+                    "dist_from_thresh": "0.6238",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.0002",
+                    "caption_false": "The white rectangle is a big rectangle",
+                    "k": "0.2789"
+                }
+            ]
+        }
+    ],
+    "15": [
+        {
+            "n_colors": "5",
+            "avg_area_px": "30865.6667",
+            "total_area_px": "185194",
+            "min_area": "14400",
+            "max_radius": "110",
+            "min_radius": "60",
+            "n_objects": "6",
+            "image_id": "15",
+            "max_area": "48400",
+            "image_url": "15.png"
+        },
+        {
+            "objects": [
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "31397",
+                    "thresh_dist": "nan",
+                    "object_id": "0",
+                    "color": "yellow",
+                    "radius": "100",
+                    "k": "0.3392",
+                    "cc": "907",
+                    "prob": "0.5",
+                    "rr": "285"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "19600",
+                    "thresh_dist": "0.5079",
+                    "object_id": "1",
+                    "color": "white",
+                    "radius": "70",
+                    "k": "0.3392",
+                    "cc": "426",
+                    "prob": "0.9997",
+                    "rr": "637.0"
+                },
+                {
+                    "shape": "square",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "40000",
+                    "thresh_dist": "nan",
+                    "object_id": "2",
+                    "color": "green",
+                    "radius": "100",
+                    "k": "0.3392",
+                    "cc": "511",
+                    "prob": "0.5",
+                    "rr": "480"
+                },
+                {
+                    "shape": "circle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "31397",
+                    "thresh_dist": "nan",
+                    "object_id": "3",
+                    "color": "white",
+                    "radius": "100",
+                    "k": "0.3392",
+                    "cc": "286",
+                    "prob": "0.5",
+                    "rr": "293"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "big",
+                    "area": "48400",
+                    "thresh_dist": "0.3392",
+                    "object_id": "4",
+                    "color": "red",
+                    "radius": "110",
+                    "k": "0.3392",
+                    "cc": "140.0",
+                    "prob": "0.9895",
+                    "rr": "650"
+                },
+                {
+                    "shape": "rectangle",
+                    "vagueness": "same",
+                    "size": "small",
+                    "area": "14400",
+                    "thresh_dist": "0.6608",
+                    "object_id": "5",
+                    "color": "blue",
+                    "radius": "60",
+                    "k": "0.3392",
+                    "cc": "630.0",
+                    "prob": "1.0",
+                    "rr": "142"
+                }
+            ]
+        },
+        {
+            "captions": [
+                {
+                    "vagueness": "same",
+                    "caption_true": "The white rectangle is a small rectangle",
+                    "prob_RH_R_true": "0.9997",
+                    "dist_from_thresh:": "0.5079",
+                    "k": "0.3392"
+                },
+                {
+                    "dist_from_thresh": "0.5079",
+                    "vagueness": "same",
+                    "prob_RH_R_false": "0.0003",
+                    "caption_false": "The white rectangle is a big rectangle",
+                    "k": "0.3392"
+                }
+            ]
+        }
+    ]
+}
