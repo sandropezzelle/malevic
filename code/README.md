@@ -49,7 +49,12 @@ Note that, by default, there are **80 classes** (4 shapes \* 5 colors \* 2 sizes
 Also note that, if `--difficulty` is set to **hard**, then only `val.json` and `test.json` will be generated.
 
 
-## Training the models
+## Testing the models
+
+You can test the best trained models described in the paper. Best models and pretrained ResNet101 visual features can be downloaded from: [MALeViC](https://zenodo.org/record/3516924#.XbLnQJMzZQI)
+
+
+## Training the models on your data
 
 
 In the subfolder `code/train/`, you can find the scripts for **training all models** tested in the paper, with all reported configurations of hyper-parameters (all the **hyper-parameters** are briefly described in the script):
@@ -60,14 +65,9 @@ In the subfolder `code/train/`, you can find the scripts for **training all mode
 
 - `train_baselines.sh`
 
+To do so, you can preprocess the `train.json`, `val.json`, and `test.json` files (questions) and to extract visual features of images with a pre-trained ResNet-101: [instructions here](https://github.com/facebookresearch/clevr-iep/blob/master/TRAINING.md#preprocessing-clevr). Then, you need to clone repositories [clevr-iep](https://github.com/facebookresearch/clevr-iep) and [film](https://github.com/ethanjperez/film) and train the models by launching the `.sh` scripts above.
 
-To do so, you first need to preprocess the `train.json`, `val.json`, and `test.json` files (questions) and to extract visual features of images with a pre-trained ResNet-101 ([instructions here](https://github.com/facebookresearch/clevr-iep/blob/master/TRAINING.md#preprocessing-clevr)). Then, you need to clone repositories [clevr-iep] (https://github.com/facebookresearch/clevr-iep) and [film] (https://github.com/ethanjperez/film) and train the models by launching the `.sh` scripts above.
-
-[Note that some minor adjustments to the preprocessing and model code could be needed to make them work with pytorch 1]
-
-## Testing the models
-
-You can test the best trained models described in the paper [available soon]
+Note that some minor adjustments to the preprocessing and model code might be needed to make them work with PyTorch v.1
 
 ----
 ## changelog
